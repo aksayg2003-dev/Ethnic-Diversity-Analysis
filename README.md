@@ -49,4 +49,14 @@ Charts designed for interpretation:
 ---
 
 ## 📁 Project Structure
+Ethnic-Diversity-Analysis/
+│
+├── README.md
+├── ethnic_diversity_analysis.ipynb
+├── ethnic diversity.csv
+└── visuals/
+    ├── race_distribution.png
+    ├── gender_distribution.png
+    ├── salary_by_race.png
+    └── age_by_race.png
 
