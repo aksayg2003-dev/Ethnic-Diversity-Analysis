@@ -23,7 +23,7 @@ This project analyzes employee demographic data to uncover patterns in ethnic di
 - Python
 - Pandas, NumPy
 - Matplotlib, Seaborn
-- Google Colab / Jupyter Notebook
+- Google Colab
 
 ---
 
@@ -73,6 +73,8 @@ Ethnic-Diversity-Analysis/
     ├── gender_distribution.png
     ├── salary_by_race.png
     └── age_by_race.png
+---
+
 
 🚀 How to Run This Project
 
@@ -84,13 +86,17 @@ Install required libraries
 
 pip install pandas numpy matplotlib seaborn
 
-Open the notebook
+Open the notebook in Google Colab by uploading the file:
 
-jupyter notebook diversity_analysis.ipynb
+1. Go to https://colab.research.google.com
+2. Click “Upload”
+3. Select ethnic_diversity_analysis.ipynb
+
 
 📌 Conclusion
 
-This project explores the ethnic diversity across different countries and regions. Through visualizations and statistical examination, the analysis provides insights into population structure, cultural distribution, and demographic patterns.
+This project explores workforce ethnic diversity within an organization. Through visualizations and statistical examination, the analysis highlights representation patterns, demographic trends, and diversity gaps across departments and job categories.
+
 
 ⭐ Author
 
