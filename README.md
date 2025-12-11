@@ -1,6 +1,6 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/aksayg2003-dev/Ethnic-Diversity-Analysis/main/visuals/banner1.png"
-       alt="Ethnic Diversity Analysis Banner" height="250px" width="700px">
+       alt="Ethnic Diversity Analysis Banner" height="350px" width="700px">
 </p>
 
 
