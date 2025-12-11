@@ -1,6 +1,6 @@
 <p align="center">
   <img src="https://github.com/aksayg2003-dev/Ethnic-Diversity-Analysis/blob/main/visuals/banner1.png" 
-       alt="Ethnic Diversity Analysis Banner" width="100%">
+       alt="Ethnic Diversity Analysis Banner" width="50%">
 </p>
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
