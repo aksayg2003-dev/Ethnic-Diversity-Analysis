@@ -102,17 +102,29 @@ Charts designed for interpretation:
 
 ---
 
-## 📁 Project Structure
 Ethnic-Diversity-Analysis/
 │
 ├── README.md
+│   └─ Complete project documentation (Python, SQL, Power BI)
+│
+├── ethnic_diversity.csv
+│   └─ Raw employee demographic dataset
+│
 ├── ethnic_diversity_analysis.ipynb
-├── ethnic diversity.csv
-└── visuals/
-    ├── race_distribution.png
-    ├── gender_distribution.png
-    ├── salary_by_race.png
-    └── age_by_race.png
+│   └─ Data cleaning, EDA, and visualization using Python
+│
+├── ethnic.sql
+│   └─ SQL queries for normalization and analytical insights
+│
+├── ethnic.pbix
+│   └─ Power BI dashboard (Executive Overview & Demographic Analysis)
+│
+├── visuals/
+│   └─ Dashboard screenshots for GitHub preview (PNG images)
+│
+└── README_assets/   (optional)
+    └─ Images or icons used in README
+
 ---
 
 
