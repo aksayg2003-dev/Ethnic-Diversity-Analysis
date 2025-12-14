@@ -61,7 +61,7 @@ The Power BI dashboard provides an interactive and executive-level view of emplo
 ### Dashboard Preview
 ![Executive Overview](visuals/executive_overview.png)
 ![Department-wise Diversity](visuals/department_diversity.png)
-![Employee Demographics](visuals/employee_demographics.png)
+![Employee Demographics](visuals/employee_demographic.png)
 
 
 ---
