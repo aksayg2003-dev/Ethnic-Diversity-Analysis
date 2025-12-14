@@ -40,7 +40,70 @@ The dataset contains workforce demographic information such as:
 📌 Loaded from: `ethnic diversity.csv`  
 📌 Data cleaning performed on missing fields & inconsistent category labels
 
+-- # Ethnic Diversity Analysis – Power BI Dashboard
+
+## Project Overview
+This project analyzes workforce diversity across ethnicity, gender, departments, and demographics using Power BI.  
+The dashboard is designed from a client and stakeholder perspective, focusing on clarity, insights, and decision-making.
+
 ---
+
+## Tools Used
+- Power BI
+- Microsoft Excel
+- Data Cleaning & Modeling
+- DAX Measures
+
+---
+
+## Dashboard Pages
+
+### 1️⃣ Executive Diversity Overview
+- Total employees
+- Number of ethnic groups
+- Average employee age
+- Total payroll
+- High-level ethnicity and department distribution
+
+![Executive Overview](page1_executive_overview.png)
+
+---
+
+### 2️⃣ Department-wise Diversity Analysis
+- Ethnic composition across departments
+- Comparison of diversity distribution by department
+- Helps identify concentration and imbalance
+
+![Department Analysis](page2_department_analysis.png)
+
+---
+
+### 3️⃣ Employee Demographic Analysis
+- Gender distribution
+- Age vs marital status
+- Citizenship status
+- Geographic distribution
+- Detailed employee-level table
+
+![Employee Demographics](page3_employee_demographic.png)
+
+---
+
+## Key Insights
+- Workforce diversity varies significantly across departments
+- Certain ethnic groups dominate specific departments
+- Gender distribution shows imbalance
+- Majority of employees belong to a single geographic region
+
+---
+
+## Files Included
+- `ethnic.pbix` – Power BI dashboard file
+- Dashboard screenshots (PNG)
+- Source dataset (CSV)
+
+---
+
 
 ## 📊 Key Insights (EDA Outcomes)
 - Multiple racial groups represented such as **White, Black or African American**, etc.
