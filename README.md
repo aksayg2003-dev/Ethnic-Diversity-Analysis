@@ -58,6 +58,12 @@ The Power BI dashboard provides an interactive and executive-level view of emplo
 ### Power BI File
 - `ethnic.pbix` (available in this repository)
 
+### Dashboard Preview
+![Executive Overview](visuals/executive_overview.png)
+![Department-wise Diversity](visuals/department_diversity.png)
+![Employee Demographics](visuals/employee_demographics.png)
+
+
 ---
 
 ## Key Insights
