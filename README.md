@@ -40,52 +40,23 @@ The dataset contains workforce demographic information such as:
 📌 Loaded from: `ethnic diversity.csv`  
 📌 Data cleaning performed on missing fields & inconsistent category labels
 
--- # Ethnic Diversity Analysis – Power BI Dashboard
-
-## Project Overview
-This project analyzes workforce diversity across ethnicity, gender, departments, and demographics using Power BI.  
-The dashboard is designed from a client and stakeholder perspective, focusing on clarity, insights, and decision-making.
-
 ---
+## 📊 Power BI Dashboard
 
-## Tools Used
-- Power BI
-- Microsoft Excel
-- Data Cleaning & Modeling
-- DAX Measures
+The Power BI dashboard provides an interactive and executive-level view of employee ethnic diversity.
 
----
+### Dashboard Pages
+- **Executive Overview**: High-level KPIs including total employees, ethnic groups, average age, and payroll.
+- **Department-wise Diversity Analysis**: Ethnic composition across departments using stacked bar charts.
+- **Employee Demographic Analysis**: Gender distribution, marital status, citizenship, and geographic distribution.
 
-## Dashboard Pages
+### Key Features
+- Interactive slicers for department and employment status
+- Clean, client-ready layout with KPI cards
+- Multi-page dashboard design to avoid clutter
 
-### 1️⃣ Executive Diversity Overview
-- Total employees
-- Number of ethnic groups
-- Average employee age
-- Total payroll
-- High-level ethnicity and department distribution
-
-![Executive Overview](page1_executive_overview.png)
-
----
-
-### 2️⃣ Department-wise Diversity Analysis
-- Ethnic composition across departments
-- Comparison of diversity distribution by department
-- Helps identify concentration and imbalance
-
-![Department Analysis](page2_department_analysis.png)
-
----
-
-### 3️⃣ Employee Demographic Analysis
-- Gender distribution
-- Age vs marital status
-- Citizenship status
-- Geographic distribution
-- Detailed employee-level table
-
-![Employee Demographics](page3_employee_demographic.png)
+### Power BI File
+- `ethnic.pbix` (available in this repository)
 
 ---
 
