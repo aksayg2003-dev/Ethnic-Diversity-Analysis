@@ -102,6 +102,9 @@ Charts designed for interpretation:
 
 ---
 
+## 📂 Project Structure
+
+```text
 Ethnic-Diversity-Analysis/
 │
 ├── README.md
@@ -124,6 +127,7 @@ Ethnic-Diversity-Analysis/
 │
 └── README_assets/   (optional)
     └─ Images or icons used in README
+
 
 ---
 
